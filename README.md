@@ -58,7 +58,8 @@ You can copy its contents and add it to the authorized_keys file on the remote s
 
 ![img](./asserts/8.png)
 
-Open your web browser and navigate to GitHub.
+After you generate the key, you can add the public key to your account on GitHub.com to enable authentication for Git operations over SSH.
+Open your web browser and navigate to GitHub Account.
 
 ![img](./asserts/9.png)
 
@@ -83,8 +84,6 @@ After adding the SSH key, GitHub will display a success message.
 
 ![img](./asserts/13.png)
 
-You can generate a new SSH key on your local machine. 
-After you generate the key, you can add the public key to your account on GitHub.com to enable authentication for Git operations over SSH.
 
 
 
